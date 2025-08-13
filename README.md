@@ -7,7 +7,7 @@ Easily create strong, customizable passwords with options for uppercase, lowerca
 
 ## 🌐 Live Demo
 [Click here to try the Password Generator]([https://balajideveloper-hub.github.io/password-genaration/](https://balajideveloper-hub.github.io/password-genaration/))
-*([Replace the above link with your actual website URL or GitHub Pages link](https://balajideveloper-hub.github.io/password-genaration/))*
+*([demo link ](https://balajideveloper-hub.github.io/password-genaration/))*
 
 ---
 
