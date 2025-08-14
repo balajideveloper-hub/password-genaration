@@ -12,7 +12,7 @@ Easily create strong, customizable passwords with options for uppercase, lowerca
 ---
 
 ## 📸 Screenshot
-![Password Generator Screenshot](screenshot.png)  
+![Password Generator Screenshot](photo.png)  
 *(Add your own screenshot file in the repo and update the filename if needed)*
 
 ---
